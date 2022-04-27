@@ -16,7 +16,6 @@ current_date() Report_date
 ,cont.Row_size
 ,col.cou Column_Size
 ,mbs.mbs
-
 FROM (SELECT 
 		TASK_ID
 		,DAG_ID
